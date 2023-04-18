@@ -6,7 +6,7 @@ let package = Package(
     products: [
         .library(
             name: "MapboxCoreNavigation",
-            targets: ["MapboxCoreNavigation"]))  
+            targets: ["MapboxCoreNavigation"])
     ],
     dependencies: [
     ],    
