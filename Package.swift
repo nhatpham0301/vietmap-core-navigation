@@ -13,7 +13,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "MapboxCoreNavigation",
-            url: "https://github.com/nhatpham0301/vietmap-core-navigation/raw/main/MapboxCoreNavigation.xcframework.zip",
-            checksum: "1faed175a701bcca9f05594e4cb60bd04b984364a218a9ee8525d2aba41710d5")
+            url: "https://github.com/nhatpham0301/vietmap-core-navigation/raw/main/MapboxCoreNavigation_1.xcframework.zip",
+            checksum: "0e536586bd81660d5d2c5aa9c8a7fb87c527d1ac4058a7c6bd4804bef43c837f")
             ]
 )
